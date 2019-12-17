@@ -19,7 +19,7 @@ Please see the [FAQ][] for answers about AKS Engine and its progenitor ACS-Engin
 
 ## Sharpen your skills
 
-The official [AKS Engine documentation][docs] covers everything you need to know about AKS Engine (and then some)..
+The official [AKS Engine documentation][docs] covers everything you need to know about AKS Engine (and then some).
 
 ## Join the community
 
